@@ -1,0 +1,2 @@
+# MINOR-PROJECT-ASSESSMENT-4--IDOR-API-BOLA-CORS-Misconfiguration-Unrestricted-File-Upload
+A Cybersecurity Mini Project focused on identifying and analyzing web vulnerabilities such as IDOR (BOLA), CORS Misconfiguration, and Unrestricted File Upload using Burp Suite. Includes security testing steps, vulnerability analysis, impact assessment, and remediation techniques in an authorized lab environment.
